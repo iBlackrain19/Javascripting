@@ -1,3 +1,3 @@
-var n='128'
-n=n.toString(n)
-console.log(n)
+var n='128';
+.toString(n);
+console.log(.toString());
